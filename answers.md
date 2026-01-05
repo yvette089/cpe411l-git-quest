@@ -14,3 +14,5 @@ LEVEL 4 COMPLETE: fixed the hallway sign
 ## Level 5
 Command used: git branch  
 Current branch: student-yvette 
+
+LEVEL 6 CHEST CODE: FOX-7
