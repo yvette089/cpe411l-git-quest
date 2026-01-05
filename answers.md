@@ -8,3 +8,5 @@ Result: Working tree clean
 ## Level 3
 Command used: git log --oneline  
 Hidden clue found in commit history: **SUNSET-19**
+
+LEVEL 4 COMPLETE: fixed the hallway sign
