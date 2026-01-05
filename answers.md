@@ -5,7 +5,6 @@ Command used: git status
 Result: Working tree clean
 
 ## Level 3
-## Level 3
 Command used: git log --oneline  
 Hidden clue found in commit history: **SUNSET-19**
 
@@ -23,4 +22,5 @@ Result: no changes; everything is already committed
 
 LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/81
 
+## Level 9
 LEVEL 9 CONFLICT TEST: change from main branch
