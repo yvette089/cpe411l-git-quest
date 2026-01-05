@@ -16,3 +16,7 @@ Command used: git branch
 Current branch: student-yvette 
 
 LEVEL 6 CHEST CODE: FOX-7
+
+## Level 7
+Command used: git diff  
+Result: no changes; everything is already committed
